@@ -25,6 +25,4 @@ var doWhileLoop = function(array){
     array.pop()
   } while (maybeTrue()); 
   return array; 
-  
-  
 }
