@@ -17,3 +17,10 @@ var whileLoop = function(number){
   return "done"; 
 }
 
+var doWhileLoop = function(array){
+  
+  
+  
+  
+  
+}
